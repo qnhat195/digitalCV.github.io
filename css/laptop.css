@@ -1,0 +1,8 @@
+@media (min-width: 769px) {
+  #about .target {
+    padding: 3rem 3rem 3rem 20% !important;
+  }
+  #job-info2 {
+    display: none;
+  }
+}
